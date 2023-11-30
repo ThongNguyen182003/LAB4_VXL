@@ -29,7 +29,7 @@ void SCH_Add_Task( void (*pFunction)(), uint32_t DELAY, uint32_t PERIOD){
 	}
 }
 void SCH_Delete_Task(uint32_t ID) {
-    if (ID < current_index_task && SCH_tasks_G[ID].pTask) {
+    if (ID <= current_index_task && SCH_tasks_G[ID].pTask) {
         for (uint32_t i = ID;  i < current_index_task - 1; i++) {
             SCH_tasks_G[i] = SCH_tasks_G[i + 1];
         }
