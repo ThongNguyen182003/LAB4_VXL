@@ -1,7 +1,0 @@
-../Core/Src/button.c:15:6:setUpButton	2
-../Core/Src/button.c:29:6:subKeyProcess	5
-../Core/Src/button.c:46:5:isButton1Pressed	2
-../Core/Src/button.c:53:5:isButton2Pressed	2
-../Core/Src/button.c:61:5:isButton3Pressed	2
-../Core/Src/button.c:70:5:isButton1Pressed2s	2
-../Core/Src/button.c:78:6:getKeyInput	11

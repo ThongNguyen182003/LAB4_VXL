@@ -1,7 +1,0 @@
-../Core/Src/Controlled.c:6:6:TurnOnLedRedLane1	1
-../Core/Src/Controlled.c:11:6:TurnOnLedYellowLane1	1
-../Core/Src/Controlled.c:16:6:TurnOnLedGreenLane1	1
-../Core/Src/Controlled.c:22:6:TurnOnLedRedLane2	1
-../Core/Src/Controlled.c:27:6:TurnOnLedYellowLane2	1
-../Core/Src/Controlled.c:32:6:TurnOnLedGreenLane2	1
-../Core/Src/Controlled.c:38:6:TurnOfAllLed	1
